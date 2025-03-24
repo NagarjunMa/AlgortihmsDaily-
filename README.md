@@ -46,16 +46,20 @@ Problems are tagged with one or more of the following categories:
 
 ## Daily Log
 
-| Date | Problem | Difficulty | Category | Solution |
-|------|---------|------------|----------|----------|
-| 2025-03-24 | [Two Sum](./2025-03-24/) | Easy | Array, Hash Table | [Solution](./2025-03-24/solution.js) |
+| Date       | Problem                                                       | Difficulty | Category                | Solution                                                    |
+| ---------- | ------------------------------------------------------------- | ---------- | ----------------------- | ----------------------------------------------------------- |
+| 2025-03-24 | [Diameter of Binary Tree](./2025-03-24/DiameterOfBinaryTree/) | Easy       | Binary Tree, DFS        | [Solution](./2025-03-24/DiameterOfBinaryTree/Solution.java) |
+| 2025-03-24 | [Balanced Binary Tree](./2025-03-24/BalancedBinaryTree/)      | Easy       | Binary Tree, DFS        | [Solution](./2025-03-24/BalancedBinaryTree/Solution.java)   |
+| 2025-03-24 | [Same Binary Tree](./2025-03-24/SameBinaryTree/)              | Easy       | Binary Tree, DFS        | [Solution](./2025-03-24/SameBinaryTree/Solution.java)       |
+| 2025-03-24 | [Implement Trie (Prefix Tree)](./2025-03-24/ImplementTrie/)   | Medium     | Data Structure, Trie    | [Solution](./2025-03-24/ImplementTrie/PrefixTree.java)      |
+| 2025-03-24 | [N-Queens](./2025-03-24/NQueens/)                             | Hard       | Backtracking, Recursion | [Solution](./2025-03-24/NQueens/NQueens.java)               |
 
 ## Statistics
 
-- **Total Problems Solved**: 1
-- **Easy**: 1
-- **Medium**: 0
-- **Hard**: 0
+- **Total Problems Solved**: 5
+- **Easy**: 3
+- **Medium**: 1
+- **Hard**: 1
 
 ## Resources
 
